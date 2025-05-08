@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>AddComment</Name>
+		<Assembly>E:\Code\VisualStudio\C#\REVIT\TestTask1\TestTask1\bin\Debug\TestTask1.dll</Assembly>
+		<AddInId>12345678-1234-1234-1234-123456789012</AddInId>
+		<FullClassName>TestTask</FullClassName>
+		<VendorId>0</VendorId>
+		<VendorDescription>Add comments for rebars</VendorDescription>
+	</AddIn>
+</RevitAddIns>
