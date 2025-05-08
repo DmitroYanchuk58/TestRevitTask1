@@ -7,13 +7,16 @@ Open the .addin file included with your project and update the Assembly path to 
 
 Example:
 <Assembly>C:\Path\To\Your\Compiled\DLL\TestTask1.dll</Assembly>
-✅ Make sure the path is correct and points to the actual location of your built DLL.
+
+Make sure the path is correct and points to the actual location of your built DLL.
+
 
 2. 📁 Place the .addin File in the Revit Add-ins Folder
 Copy your modified .addin file to the Revit Add-ins folder corresponding to your Revit version:
 
 C:\ProgramData\Autodesk\Revit\Addins\2023
-ℹ️ Replace 2023 with your version of Revit, if different.
+
+Replace 2023 with your version of Revit, if different.
 
 3. ▶️ Run Revit and Open a Test Project
 Start Autodesk Revit.
